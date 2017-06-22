@@ -31,7 +31,8 @@ h3{text-align:center;}
 .t9img{background-image:url("../img/img9r.jpg");}
 .t10img{background-image:url("../img/img10l.jpg");}
 .t11img{background-image:url("../img/img11r.jpg");}
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');*{margin:0;padding:0;box-sizing:border-box;}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+*{margin:0;padding:0;box-sizing:border-box;}
 body{font:14px/1 'Open Sans', sans-serif;color:#555;background:#e5e5e5;}
 .gallery{margin:0 auto;padding:5px;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.3);}
 .gallery > div{position:relative;float:left;padding:5px;}
@@ -65,4 +66,18 @@ body{
     font-size: 22px;
     padding: 5px;
     margin: 5px;
+}
+
+#scrollup{
+    transform: rotate(270deg);
+    bottom: 50%;
+    right: -65px;
+}
+
+#scrollup a{
+    font-size: 20px;
+}
+
+.modal-dialog{
+    top: 30%;
 }
