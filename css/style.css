@@ -14,8 +14,8 @@ img{max-width:350px;}
 .crop{float:left;margin:.5em 10px .5em 0;border:1px solid #ccc;}
 .crop img{margin:1px 1px 1px 1px;height:200px;width:100%;}
 p{font-size:18px;padding:20px;}
-.head1{margin-bottom:0px;}
-h1{text-align:center;}
+.head1{margin-bottom:1px;}
+h1{text-align:center;margin: 10px}
 h2{text-align:center;}
 h3{text-align:center;}
 .title{background-color:white;padding:20px;margin-bottom:20px;margin-top:20px;}
@@ -45,3 +45,24 @@ h1{margin:40px 0;font-size:30px;font-weight:300;text-align:center;}
 .footer{background:white;margin-top:20px;}
 .phone li{list-style-type:none;text-align:center;}
 #toTop{width:100px;border:1px solid #ccc;background:black;text-align:center;padding:10px;position:fixed;bottom:30px;right:30px;cursor:pointer;display:none;color:White;font-family:verdana;font-size:16px;}
+.head-text-top{
+    margin: 2px;
+    border: solid black 1px;
+    border-radius: 100px;
+    background-color: lightgrey;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: white;
+}
+.head-border{
+    margin: 5px;
+    border-bottom: solid black 2px;
+
+}
+.head1 p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+    padding: 5px;
+    margin: 5px;
+}
