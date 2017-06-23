@@ -48,7 +48,7 @@
               <p> Выберите ремонт на ваш вкус и закажите его, прямо не выходя из вашего дома.</p>
           </div>
 
-          <nav class="navbar navbar-default visible-xs">
+          <nav id="navbar-top" class="navbar navbar-fixed-top navbar-style" role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -76,7 +76,8 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-      </div>
+
+
   <div class="visible-md visible-lg visible-xl">
       <div  class="btn-group btn-group-justified">
           <button class="nav-a scroll" href="#scroll-2">Ремонт квартир под ключ</button>
@@ -94,6 +95,8 @@
       </div>
   </div>
   </div>
+  </div>
+
   <div class="content">
     <!--<div class="container-fluid">-->
 
@@ -1446,6 +1449,7 @@
                   </table>
           </div>
 
+          <p>Черновые материалы - это те материалы, которые после выполнения всего комплекса работ вы не будете видеть - клеи, шпатлевки, грунтовки,трубы провода, гипсокартон, профиля, и т.д., но именно от этих материалов в большей степени зависит качество выполнения работ. Их приблизительную стоимость наш специалист озвучит вам заранее. Вы можете осуществлять их закупку самостоятельно либо поручить нашим специалистам (все чеки и товарные накладные будут сохранены и предоставлены вам) .</p>
           </div>
       </div>
       <!--content-->
@@ -1638,6 +1642,17 @@
 
       });
 
+  </script>
+
+  <script>
+      $(window).scroll(function(){
+          if($(window).scrollTop()>300){
+              $('#navbar-top').show();
+          }
+          if($(window).scrollTop()<300){
+              $('#navbar-top').hide();
+          }
+      });
   </script>
   </body>
 </html>
