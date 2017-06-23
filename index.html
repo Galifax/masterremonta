@@ -952,15 +952,15 @@
                           <a id="but7" class="btn btn-default btn-lg">ШТУКАТУРНЫЕ И МАЛЯРНЫЕ РАБОТЫ</a>
                       </div>
                  </div>
-             <div class="visible-xs">
+             <div class="visible-xs visible-sm">
 
-                          <a id="but1" class="btn btn-default btn-lg">ПЛИТОЧНЫЕ РАБОТЫ</a>
-                          <a id="but6" class="btn btn-default btn-lg">ДРУГИЕ РАБОТЫ</a>
-                          <a id="but3" class="btn btn-default btn-lg">ДЕМОНТАЖНЫЕ РАБОТЫ</a>
-                          <a id="but4" class="btn btn-default btn-lg">УСТРОЙСТВО ПОЛОВ</a>
-                          <a id="but5" class="btn btn-default btn-lg">ПОКЛЕЙКА ОБОЕВ</a>
-                          <a id="but2" class="btn btn-default btn-lg">КОНСТРУКЦИИ ИЗ ГИПСОКАРТОНА</a>
-                          <a id="but7" class="btn btn-default btn-lg">ШТУКАТУРНЫЕ И МАЛЯРНЫЕ РАБОТЫ</a>
+                          <a id="but11" class="btn btn-default btn-lg">ПЛИТОЧНЫЕ РАБОТЫ</a>
+                          <a id="but61" class="btn btn-default btn-lg">ДРУГИЕ РАБОТЫ</a>
+                          <a id="but31" class="btn btn-default btn-lg">ДЕМОНТАЖНЫЕ РАБОТЫ</a>
+                          <a id="but41" class="btn btn-default btn-lg">УСТРОЙСТВО ПОЛОВ</a>
+                          <a id="but51" class="btn btn-default btn-lg">ПОКЛЕЙКА ОБОЕВ</a>
+                          <a id="but21" class="btn btn-default btn-lg">КОНСТРУКЦИИ ИЗ ГИПСОКАРТОНА</a>
+                          <a id="but71" class="btn btn-default btn-lg">ШТУКАТУРНЫЕ И МАЛЯРНЫЕ РАБОТЫ</a>
 
                  </div>
           
@@ -1610,6 +1610,50 @@
   <script type="text/javascript">
       $(document).ready(function() {
           $('#p1, #p2, #p3, #p4, #p5,#p6, #p7 ').hide('slow');
+          $('#but11').click(function () {
+              $('#p2, #p3, #p4, #p5,#p6, #p7  ').hide('slow');
+              $(' #p1').show('slow');
+
+          });
+          $('#but21').click(function () {
+              $('#p1, #p3, #p4, #p5,#p6, #p7  ').hide('slow');
+              $(' #p2').show('slow');
+
+
+          });
+          $('#but31').click(function () {
+              $('#p1, #p2, #p4, #p5,#p6, #p7  ').hide('slow');
+              $(' #p3').show('slow');
+
+          });
+          $('#but41').click(function () {
+              $('#p1, #p2, #p3, #p5,#p6, #p7 ').hide('slow');
+              $(' #p4').show('slow');
+
+          });
+          $('#but51').click(function () {
+              $('#p1, #p2, #p3, #p4, #p6, #p7 ').hide('slow');
+              $(' #p5').show('slow');
+
+          });
+          $('#but61').click(function () {
+              $('#p1, #p2, #p3, #p4, #p5, #p7 ').hide('slow');
+              $(' #p6').show('slow');
+
+          });
+          $('#but71').click(function () {
+              $('#p1, #p2, #p3, #p4, #p5, #p6 ').hide('slow');
+              $(' #p7').show('slow');
+
+          });
+
+      });
+
+  </script>
+
+  <script type="text/javascript">
+      $(document).ready(function() {
+          $('#p1, #p2, #p3, #p4, #p5,#p6, #p7 ').hide('slow');
           $('#but1').click(function () {
               $('#p2, #p3, #p4, #p5,#p6, #p7  ').hide('slow');
               $(' #p1').show('slow');
@@ -1650,7 +1694,9 @@
       });
 
   </script>
-     <script type="text/javascript">
+
+
+  <script type="text/javascript">
 
       $(function() {
 
