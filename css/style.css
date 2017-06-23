@@ -81,3 +81,7 @@ body{
 .modal-dialog{
     top: 30%;
 }
+.nav-b{background-color:black;color:white;font-size:14px;padding:10px;line-height: 3.0;}
+.navbar{
+    background-color: white;
+}
