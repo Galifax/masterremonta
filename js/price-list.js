@@ -193,7 +193,8 @@
             var data = {
                 price: $tablerow.data('price') || '',
                 usluga: $tablerow.find('.usluga').text() || '',
-                unit: $tablerow.find('.unit').text() || ''
+                unit: $tablerow.find('.unit').text() || '',
+                unitPrice: $tablerow.find('.unit-price').text() || ''
             };
             $sumTalbe
                 .find('tbody')
@@ -203,6 +204,7 @@
                         '<td>' + data.usluga + '</td>',
                         '<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>',
                         '<td>' + data.unit + '</td>',
+                        '<td>' + data.unitPrice + '</td>',
                         '<td class="sum"></td>',
                         '<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>',
                     '</tr>'].join('')

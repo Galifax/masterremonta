@@ -434,24 +434,29 @@ body {
 }
 
 .ps__sum-table>thead>tr>th:nth-child(2) {
-    width: 65%;
+    width: 59%;
 }
 
 .ps__sum-table>thead>tr>th:nth-child(3) {
-    width: 9%;
+    width: 8%;
 }
 
 .ps__sum-table>thead>tr>th:nth-child(4) {
-    width: 9%;
+    width: 8%;
 }
 
 .ps__sum-table>thead>tr>th:nth-child(5) {
-    width: 9%;
+    width: 8%;
 }
 
 .ps__sum-table>thead>tr>th:nth-child(6) {
+    width: 8%;
+}
+
+.ps__sum-table>thead>tr>th:nth-child(7) {
     width: 5%;
 }
+
 
 /*.ps__sum-table .sum-main {
     font-weight: bold;
