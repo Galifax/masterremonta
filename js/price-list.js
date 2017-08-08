@@ -140,10 +140,6 @@
          });
 
 
-         function summarise() {
-             
-         }
-
         $('.ps__sum-table').on('keyup', 'input', function(e) {
             var $sumTalbe = $('.ps__sum-table');
             var $target = $(e.target);
@@ -174,7 +170,6 @@
             var $other = $tableRow.siblings();
             var genSum = 0;
             $tableRow.remove();
-            console.log($other, $other.lenth);
             if ($other.lenth !== 0) {
                 $other.each(function(i) {
                     $(this).find('th').text(i + 1);
@@ -191,7 +186,7 @@
             var $tablerow = $target.closest('tr');
             var $sumTalbe = $('.ps__sum-table');
             var data = {
-                price: $tablerow.data('price') || '',
+                price: $tablerow.data('price') || '0',
                 usluga: $tablerow.find('.usluga').text() || '',
                 unit: $tablerow.find('.unit').text() || '',
                 unitPrice: $tablerow.find('.unit-price').text() || ''

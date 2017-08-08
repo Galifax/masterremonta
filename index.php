@@ -467,15 +467,9 @@
 				<!--</div>-->
 				<!--</div>-->
 				<!--</div>-->
-
-<!--================================
-=            PRICE LIST            =
-=================================-->
-
-
-
-
-
+				<!--================================
+				=            PRICE LIST            =
+				=================================-->
 				<div class="title" id="scroll-10">
 					<h2>Прайс лист</h2>
 				</div>
@@ -516,877 +510,964 @@
 						<a id="but91" class="btn btn-default btn-md">Сантехнические работы</a>
 						<a id="but101" class="btn btn-default btn-md">Прайс-лист на услуги электрика</a>
 					</div>
-					<div class="table-responsive">
-						<div id="p1">
-							<h3>Расценки на штукатурные и малярные работы (беспесчанка)</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th></th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr data-price="180">
-										<th scope="row">15</th>
-										<td class="usluga">Декоративная штукатурка</td>
-										<td class="unit">от 180/ 1 м. кв.</td>
-										<td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td>
-									</tr>
-									<tr data-price="150">
-										<th scope="row">16</th>
-										<td class="usluga">Художественная роспись стен</td>
-										<td class="unit">1 м. кв./ договорная</td>
-										<td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td>
-									</tr>
-									<tr data-price="35">
-										<th scope="row">17</th>
-										<td class="usluga">Поклейка штукатурной сетки</td>
-										<td class="unit">1 м. кв./ от 35</td>
-										<td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p2">
-							<h3>Расценки на электромонтажные работы</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Проектирование схемы силовой электропроводки с учетом предположительных нагрузок</td>
-										<td>1 шт.</td>
-										<td>от 1000</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Электромонтаж галогенного светильника в гипсокартонной конструкции</td>
-										<td>1 шт.</td>
-										<td>от 45</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Замена розетки, выключателя</td>
-										<td>1 шт.</td>
-										<td>от 40</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Монтаж новой розетки, выключателя в бетонной стене</td>
-										<td>1 шт.</td>
-										<td>от 80</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Монтаж новой розетки, выключателя в кирпичной стене</td>
-										<td>1 шт.</td>
-										<td>от 80</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Укладка проводов</td>
-										<td>1 п. м.</td>
-										<td>от 8</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Навешивание бра, настенных светильников и т.д.</td>
-										<td>1 шт.</td>
-										<td>от 80</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Штроба</td>
-										<td>1 п. м.</td>
-										<td>от 35</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Монтаж люстр</td>
-										<td>1 шт.</td>
-										<td>от 200</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p3">
-							<h3>Расценки на демонтажные работы</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Снятие старых обоев</td>
-										<td>1 м. кв.</td>
-										<td>от 10</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Смывка, соскабливание краски</td>
-										<td>1 м. кв.</td>
-										<td>от 30</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Демонтаж кирпичной стены</td>
-										<td>1 м. кв.</td>
-										<td>от 55</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Демонтаж стяжки</td>
-										<td>1 м. кв.</td>
-										<td>от 50</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Демонтаж бетонной стены</td>
-										<td>1 м. кв.</td>
-										<td>от 300</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Демонтаж плитки</td>
-										<td>1 м. кв.</td>
-										<td>от 45</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Демонтаж оконных, дверных блоков</td>
-										<td>1 шт.</td>
-										<td>от 150</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Демонтаж сантехники и отопления</td>
-										<td>1 шт.</td>
-										<td>от 120</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Демонтаж паркета</td>
-										<td>1 м. кв.</td>
-										<td>от 60</td>
-									</tr>
-									<tr>
-										<th scope="row">10</th>
-										<td>Демонтаж штукатурки</td>
-										<td>1 м. кв.</td>
-										<td>от 45</td>
-									</tr>
-									<tr>
-										<th scope="row">11</th>
-										<td>Демонтаж электрики</td>
-										<td>1 т.</td>
-										<td>от 25</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p4">
-							<h3>Цены - Поклейка обоев</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Поклейка обоев на стены, высота помещения до 3 м</td>
-										<td>1 м. кв.</td>
-										<td>от 45</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Поклейка обоев на стены, высота помещения свыше 3 м</td>
-										<td>1 м. кв.</td>
-										<td>договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Поклейка обоев на потолок, высота помещения до 3 м</td>
-										<td>1 м. кв.</td>
-										<td>от 50</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Поклейка обоев на потолок, высота помещения свыше 3 м</td>
-										<td>1 м. кв.</td>
-										<td>договорная</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p5">
-							<h3>Расценки на штукатурные и малярные работы (беспесчанка)</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Стартовая шпаклевка стен</td>
-										<td>1 м. кв.</td>
-										<td>от 45</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Стартовая шпаклевка потолков</td>
-										<td>1 м. кв.</td>
-										<td>от 60</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Финишная шпаклевка стен</td>
-										<td>1 м. кв.</td>
-										<td>от 40</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Финишная шпаклевка потолков</td>
-										<td>1 м. кв.</td>
-										<td>от 50</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Шпаклевка сложных гипсокартонных конструкций (2-3-уровневых потолков)</td>
-										<td>1 м. кв.</td>
-										<td>от 250</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Грунтовка поверхностей</td>
-										<td>1 м. кв.</td>
-										<td>от 15</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Покраска стен водоэмульсионными красками</td>
-										<td>1 м. кв.</td>
-										<td>от 35</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Покраска потолков водоэмульсионными красками</td>
-										<td>1 м. кв.</td>
-										<td>от 40</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Откосы</td>
-										<td>1 п. м.</td>
-										<td>от 135</td>
-									</tr>
-									<tr>
-										<th scope="row">10</th>
-										<td>Поклейка багетов с покраской</td>
-										<td>1 п. м.</td>
-										<td>от 35</td>
-									</tr>
-									<tr>
-										<th scope="row">11</th>
-										<td>Маячная штукатурка</td>
-										<td>1 м. кв.</td>
-										<td>от 70</td>
-									</tr>
-									<tr>
-										<th scope="row">12</th>
-										<td>Поклейка флизилина</td>
-										<td>1 м. кв.</td>
-										<td>от 40</td>
-									</tr>
-									<tr>
-										<th scope="row">13</th>
-										<td>Установка перфоугла</td>
-										<td>1 п. м.</td>
-										<td>от 10</td>
-									</tr>
-									<tr>
-										<th scope="row">14</th>
-										<td>Покраска окон, дверей, батарей и т.д.</td>
-										<td>1 шт.</td>
-										<td>договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">15</th>
-										<td>Декоративная штукатурка</td>
-										<td>1 м. кв.</td>
-										<td>от 180</td>
-									</tr>
-									<tr>
-										<th scope="row">16</th>
-										<td>Художественная роспись стен</td>
-										<td>1 м. кв.</td>
-										<td>договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">17</th>
-										<td>Поклейка штукатурной сетки</td>
-										<td>1 м. кв.</td>
-										<td>от 30</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p6">
-							<h3>Цены на гипсокартонные работы (потолки, стены, перегородки, арки)</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Монтаж гипсокартонных конструкций (стена)</td>
-										<td>1 м. кв.</td>
-										<td>от 85</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Монтаж гипсокартонных конструкций (потолок)</td>
-										<td>1 м. кв.</td>
-										<td>от 110</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Монтаж гипсокартонных конструкций (2-3-уровневых) на потолке</td>
-										<td>1 п. м.</td>
-										<td>от 260</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Монтаж гипсокартонных конструкций (2-3-уровневых) на стене</td>
-										<td>1 п. м.</td>
-										<td>договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Монтаж гипсокартонных откосов с покраской</td>
-										<td>1 п. м</td>
-										<td>от 130</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Монтаж арки</td>
-										<td>1 шт.</td>
-										<td>от 800</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Монтаж гипсокартонной перегородки</td>
-										<td>1 м. кв.</td>
-										<td>от 100</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Короба из гипсокартона</td>
-										<td>1 п. м.</td>
-										<td>от 95</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p7">
-							<h3>Расценки на укладку ламината, ковролина, установку плинтусов</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Укладка ламината</td>
-										<td>1 м. кв.</td>
-										<td>от 75</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Укладка ковролина, линолеума</td>
-										<td>1 м. кв.</td>
-										<td>от 65</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Монтаж плинтуса (пластик)</td>
-										<td>1 п. м.</td>
-										<td>от 30</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Монтаж плинтуса (деревянный, МДФ)</td>
-										<td>1 п. м.</td>
-										<td>от 50</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Выравнивание полов при помощи нивелировочных смесей</td>
-										<td>1 м. кв.</td>
-										<td>от 55</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Укладка паркетной доски</td>
-										<td>1 м. кв.</td>
-										<td>от 75</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Стяжка</td>
-										<td>1 м. кв.</td>
-										<td>от 65</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Теплый пол</td>
-										<td>1 м. кв.</td>
-										<td>от 95</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Циклевка паркета</td>
-										<td>1 м. кв.</td>
-										<td>от 110</td>
-									</tr>
-									<tr>
-										<th scope="row">10</th>
-										<td>Промышленные полы</td>
-										<td>1 м. кв..</td>
-										<td>договорная</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p8">
-							<h3>Цены - утепление стен</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Утепление минеральной ватой</td>
-										<td>1 м. кв.</td>
-										<td>от 40</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Утепление пенопластом</td>
-										<td>1 м. кв.</td>
-										<td>от 30</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Утепление термоизоляционными плитами типа (Izoterm, Sterodur и т.д.)</td>
-										<td>1 п. м.</td>
-										<td>от 30</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p9">
-							<h3>Расценки на сантехнические работы</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Монтаж канализации и водопровода</td>
-										<td>тч.</td>
-										<td>от 350</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Монтаж сантех. мебели - ванна</td>
-										<td>шт.</td>
-										<td>от 450</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Монтаж сантех. мебели - душевая кабина</td>
-										<td>шт.</td>
-										<td>700-1500</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Монтаж сантех. мебели (умывальник, унитаз, мойка)</td>
-										<td>шт.</td>
-										<td>от 400</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Монтаж сантех. мебели (полотенцесушитель, С/М)</td>
-										<td>шт.</td>
-										<td>от 300</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Установка смесителей</td>
-										<td>шт.</td>
-										<td>от 200</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
-						<div id="p10">
-							<h2>Прайс-лист на услуги электрика</h2>
-							<h3>Стоимость скрытой электропроводки в бетонных стенах</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Прокладка кабеля 3 х 2,5 мм.кв в готовой штробе с черновой заделкой</td>
-										<td>п.м.</td>
-										<td>7.00</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Штробление стен под электропроводку</td>
-										<td>п.м.</td>
-										<td>25,00</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Бурение отверстия под розетку</td>
-										<td>шт.</td>
-										<td>70,00</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Бурение отверстия под выключатель</td>
-										<td>шт.</td>
-										<td>70,00</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Бурение отверстия под под распределительную коробку</td>
-										<td>шт.</td>
-										<td>100,00</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Сверление проходных отверстий диаметром до 15 мм в стенах</td>
-										<td>п.см.</td>
-										<td>5,00</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Монтаж установочной коробки для выключателей и розеток</td>
-										<td>шт.</td>
-										<td>10,00</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Монтаж распределительной коробки</td>
-										<td>шт.</td>
-										<td>50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Монтаж фурнитуры (розетки или выключателя)</td>
-										<td>шт.</td>
-										<td>30,00</td>
-									</tr>
-								</tbody>
-							</table>
-							<h3>Стоимость скрытой электропроводки в кирпичных, пенобетонных, гипсовых стенах</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Прокладка кабеля 3 х 2,5 мм.кв в готовой штробе с черновой заделкой</td>
-										<td>п.м.</td>
-										<td>7.00</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Штробление стен под электропроводку</td>
-										<td>п.м.</td>
-										<td>15.00</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Бурение отверстия под розетку</td>
-										<td>шт.</td>
-										<td>40,00</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Бурение отверстия под выключатель</td>
-										<td>шт.</td>
-										<td>40,00</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Бурение отверстия под под распределительную коробку</td>
-										<td>шт.</td>
-										<td>60,00</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Сверление проходных отверстий диаметром до 15 мм в стенах</td>
-										<td>п.см.</td>
-										<td>3,00</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>Монтаж установочной коробки для выключателей и розеток</td>
-										<td>шт.</td>
-										<td>10,00</td>
-									</tr>
-									<tr>
-										<th scope="row">8</th>
-										<td>Монтаж распределительной коробки</td>
-										<td>шт.</td>
-										<td>50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Монтаж фурнитуры (розетки или выключателя)</td>
-										<td>шт.</td>
-										<td>30,00</td>
-									</tr>
-									<tr>
-										<th scope="row">9</th>
-										<td>Электромонтаж (расключение) в распределительной коробке</td>
-										<td>шт.</td>
-										<td>80,00</td>
-									</tr>
-								</tbody>
-							</table>
-							<h3>Стоимость открытой электропроводки</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Прокладка кабеля на скобах</td>
-										<td>п.м.</td>
-										<td>от 25,00</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Прокладка кабеля в гофре на скобах с затяжкой</td>
-										<td>п.м.</td>
-										<td>от 50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Прокладка кабеля в пластиковом коробе (кабель-канале) с креплением</td>
-										<td>п.м.</td>
-										<td>от 30,00</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Монтаж фурнитуры (розетки или выключателя)</td>
-										<td>шт.</td>
-										<td>50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Монтаж распределительной коробки</td>
-										<td>шт.</td>
-										<td>100,00</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Электромонтаж (расключение) в распределительной коробке</td>
-										<td>шт.</td>
-										<td>80,00</td>
-									</tr>
-								</tbody>
-							</table>
-							<h3>Сборка и монтаж электрощитов</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Переборка старого электрощита до 8 групп</td>
-										<td>шт.</td>
-										<td>Договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Переборка старого электрощита до 24 групп</td>
-										<td>шт.</td>
-										<td>Договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Сборка и установка нового электрощита без счетчика</td>
-										<td>шт.</td>
-										<td>от 300,00</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Установка или замена автомата на аналогичный</td>
-										<td>шт.</td>
-										<td>50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Установка или замена УЗО на аналогичный</td>
-										<td>шт.</td>
-										<td>80,00</td>
-									</tr>
-								</tbody>
-							</table>
-							<h3>Установка, сборка и подключение электрооборудования освещения</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Установка и подключение стабилизатора напряжения</td>
-										<td>шт.</td>
-										<td>от 300,00</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Установка и подключение трансформатора на 12 V</td>
-										<td>шт.</td>
-										<td>от 50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>Сборка бра, светильников</td>
-										<td>шт.</td>
-										<td>от 50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>Установка и подключение бра, настенных светильников</td>
-										<td>шт.</td>
-										<td>от 80,00</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>Сборка люстр</td>
-										<td>шт.</td>
-										<td>от 50,00</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>Навеска и подключение люстр и  потолочных светильников</td>
-										<td>шт.</td>
-										<td>от 100,00</td>
-									</tr>
-								</tbody>
-							</table>
-							<h3>Сопутствующие работы</h3>
-							<table class="ps__table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>Сверление отверстий в стене и потолке диаметром до 15 мм</td>
-										<td>п.см.</td>
-										<td>Договорная</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>Вырезание ниши под электрощит</td>
-										<td>шт.</td>
-										<td>Договорная</td>
-									</tr>
-								</tbody>
-							</table>
-						</div>
+<div class="table-responsive">
+    <div id="p1">
+        <h3>Расценки на штукатурные и малярные работы (беспесчанка)</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="45">
+                    <th scope="row">1</th>
+                    <td class="usluga">Стартовая шпаклевка стен</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 45</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="60">
+                    <th scope="row">2</th>
+                    <td class="usluga">Стартовая шпаклевка потолков</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 60</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">3</th>
+                    <td class="usluga">Финишная шпаклевка стен</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">4</th>
+                    <td class="usluga">Финишная шпаклевка потолков</td>
+                    <td class="unit">1 м. кв</td>
+                    <td class="unit-price">от 50</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="250">
+                    <th scope="row">5</th>
+                    <td class="usluga">Шпаклевка сложных гипсокартонных конструкций (2-3-уровневых потолков)</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 250</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="15">
+                    <th scope="row">6</th>
+                    <td class="usluga">Грунтовка поверхностей</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 15</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="35">
+                    <th scope="row">7</th>
+                    <td class="usluga">Покраска стен водоэмульсионными красками</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 35</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">8</th>
+                    <td class="usluga">Покраска потолков водоэмульсионными красками</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="135">
+                    <th scope="row">9</th>
+                    <td class="usluga">Откосы</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 135</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="35">
+                    <th scope="row">10</th>
+                    <td class="usluga">Поклейка багетов с покраской</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 35</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="70">
+                    <th scope="row">11</th>
+                    <td class="usluga">Маячная штукатурка</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 70</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">12</th>
+                    <td class="usluga">Поклейка флизилина</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="10">
+                    <th scope="row">13</th>
+                    <td class="usluga">Установка перфоугла</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 10</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">14</th>
+                    <td class="usluga">Покраска окон, дверей, батарей и т.д.</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="180">
+                    <th scope="row">15</th>
+                    <td class="usluga">Декоративная штукатурка</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 180</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">16</th>
+                    <td class="usluga">Художественная роспись стен</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">17</th>
+                    <td class="usluga">Поклейка штукатурной сетки</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от </td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                
+            </tbody>
+        </table>
+    </div>
+    <div id="p2">
+        <h3>Расценки на электромонтажные работы</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="1000">
+                    <th scope="row">1</th>
+                    <td class="usluga">Проектирование схемы силовой электропроводки с учетом предположительных нагрузок</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 1000</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="45">
+                    <th scope="row">2</th>
+                    <td class="usluga">Электромонтаж галогенного светильника в гипсокартонной конструкции</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 45</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">3</th>
+                    <td class="usluga">Замена розетки, выключателя</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">4</th>
+                    <td class="usluga">Монтаж новой розетки, выключателя в бетонной стене</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 80</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">5</th>
+                    <td class="usluga">Монтаж новой розетки, выключателя в кирпичной стене</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 80</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="8">
+                    <th scope="row">6</th>
+                    <td class="usluga">Укладка проводов</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 8</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">7</th>
+                    <td class="usluga">Навешивание бра, настенных светильников и т.д.</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 80</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="35">
+                    <th scope="row">8</th>
+                    <td class="usluga">Штроба</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 35</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="200">
+                    <th scope="row">9</th>
+                    <td class="usluga">Монтаж люстр</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 200</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p3">
+        <h3>Расценки на демонтажные работы</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="10">
+                    <th scope="row">1</th>
+                    <td class="usluga">Снятие старых обоев</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 10</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">2</th>
+                    <td class="usluga">Смывка, соскабливание краски</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 30</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="55">
+                    <th scope="row">3</th>
+                    <td class="usluga">Демонтаж кирпичной стены</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 55</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">4</th>
+                    <td class="usluga">Демонтаж стяжки</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 50</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="300">
+                    <th scope="row">5</th>
+                    <td class="usluga">Демонтаж бетонной стены</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 300</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="45">
+                    <th scope="row">6</th>
+                    <td class="usluga">Демонтаж плитки</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 45</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="150">
+                    <th scope="row">7</th>
+                    <td class="usluga">Демонтаж оконных, дверных блоков</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 150</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="120">
+                    <th scope="row">8</th>
+                    <td class="usluga">Демонтаж сантехники и отопления</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 120</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="60">
+                    <th scope="row">9</th>
+                    <td class="usluga">Демонтаж паркета</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 60</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="45">
+                    <th scope="row">10</th>
+                    <td class="usluga">Демонтаж штукатурки</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 45</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="25">
+                    <th scope="row">11</th>
+                    <td class="usluga">Демонтаж электрики</td>
+                    <td class="unit">1 т.</td>
+                    <td class="unit-price">от 25</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p4">
+        <h3>Цены - Поклейка обоев</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="45">
+                    <th scope="row">1</th>
+                    <td class="usluga">Поклейка обоев на стены, высота помещения до 3 м</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 45</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">2</th>
+                    <td class="usluga">Поклейка обоев на стены, высота помещения свыше 3 м</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">3</th>
+                    <td class="usluga">Поклейка обоев на потолок, высота помещения до 3 м</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 50</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">4</th>
+                    <td class="usluga">Поклейка обоев на потолок, высота помещения свыше 3 м</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p5">
+        <h3>Расценки на штукатурные и малярные работы (беспесчанка)</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="45">
+                    <th scope="row">1</th>
+                    <td class="usluga">Стартовая шпаклевка стен</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 45</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="60">
+                    <th scope="row">2</th>
+                    <td class="usluga">Стартовая шпаклевка потолков</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 60</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">3</th>
+                    <td class="usluga">Финишная шпаклевка стен</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">4</th>
+                    <td class="usluga">Финишная шпаклевка потолков</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 50</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="250">
+                    <th scope="row">5</th>
+                    <td class="usluga">Шпаклевка сложных гипсокартонных конструкций (2-3-уровневых потолков)</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 250</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="15">
+                    <th scope="row">6</th>
+                    <td class="usluga">Грунтовка поверхностей</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 15</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="35">
+                    <th scope="row">7</th>
+                    <td class="usluga">Покраска стен водоэмульсионными красками</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 35</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">8</th>
+                    <td class="usluga">Покраска потолков водоэмульсионными красками</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="135">
+                    <th scope="row">9</th>
+                    <td class="usluga">Откосы</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 135</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="35">
+                    <th scope="row">10</th>
+                    <td class="usluga">Поклейка багетов с покраской</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 35</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="70">
+                    <th scope="row">11</th>
+                    <td class="usluga">Маячная штукатурка</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 70</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">12</th>
+                    <td class="usluga">Поклейка флизилина</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="10">
+                    <th scope="row">13</th>
+                    <td class="usluga">Установка перфоугла</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 10</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">14</th>
+                    <td class="usluga">Покраска окон, дверей, батарей и т.д.</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="180">
+                    <th scope="row">15</th>
+                    <td class="usluga">Декоративная штукатурка</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 180</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">16</th>
+                    <td class="usluga">Художественная роспись стен</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">17</th>
+                    <td class="usluga">Поклейка штукатурной сетки</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 30</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p6">
+        <h3>Цены на гипсокартонные работы (потолки, стены, перегородки, арки)</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="85">
+                    <th scope="row">1</th>
+                    <td class="usluga">Монтаж гипсокартонных конструкций (стена)</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 85</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="110">
+                    <th scope="row">2</th>
+                    <td class="usluga">Монтаж гипсокартонных конструкций (потолок)</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 110</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="260">
+                    <th scope="row">3</th>
+                    <td class="usluga">Монтаж гипсокартонных конструкций (2-3-уровневых) на потолке</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 260</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">4</th>
+                    <td class="usluga">Монтаж гипсокартонных конструкций (2-3-уровневых) на стене</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="130">
+                    <th scope="row">5</th>
+                    <td class="usluga">Монтаж гипсокартонных откосов с покраской</td>
+                    <td class="unit">1 п. м</td>
+                    <td class="unit-price">от 130</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="800">
+                    <th scope="row">6</th>
+                    <td class="usluga">Монтаж арки</td>
+                    <td class="unit">1 шт.</td>
+                    <td class="unit-price">от 800</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="100">
+                    <th scope="row">7</th>
+                    <td class="usluga">Монтаж гипсокартонной перегородки</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 100</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="95">
+                    <th scope="row">8</th>
+                    <td class="usluga">Короба из гипсокартона</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 95</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p7">
+        <h3>Расценки на укладку ламината, ковролина, установку плинтусов</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="75">
+                    <th scope="row">1</th>
+                    <td class="usluga">Укладка ламината</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 75</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="65">
+                    <th scope="row">2</th>
+                    <td class="usluga">Укладка ковролина, линолеума</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 65</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">3</th>
+                    <td class="usluga">Монтаж плинтуса (пластик)</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 30</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">4</th>
+                    <td class="usluga">Монтаж плинтуса (деревянный, МДФ)</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 50</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="55">
+                    <th scope="row">5</th>
+                    <td class="usluga">Выравнивание полов при помощи нивелировочных смесей</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 55</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="75">
+                    <th scope="row">6</th>
+                    <td class="usluga">Укладка паркетной доски</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 75</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="65">
+                    <th scope="row">7</th>
+                    <td class="usluga">Стяжка</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 65</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="95">
+                    <th scope="row">8</th>
+                    <td class="usluga">Теплый пол</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 95</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="110">
+                    <th scope="row">9</th>
+                    <td class="usluga">Циклевка паркета</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 110</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">10</th>
+                    <td class="usluga">Промышленные полы</td>
+                    <td class="unit">1 м. кв..</td>
+                    <td class="unit-price">договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p8">
+        <h3>Цены - утепление стен</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="40">
+                    <th scope="row">1</th>
+                    <td class="usluga">Утепление минеральной ватой</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 40</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">2</th>
+                    <td class="usluga">Утепление пенопластом</td>
+                    <td class="unit">1 м. кв.</td>
+                    <td class="unit-price">от 30</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">3</th>
+                    <td class="usluga">Утепление термоизоляционными плитами типа (Izoterm, Sterodur и т.д.)</td>
+                    <td class="unit">1 п. м.</td>
+                    <td class="unit-price">от 30</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p9">
+        <h3>Расценки на сантехнические работы</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="350">
+                    <th scope="row">1</th>
+                    <td class="usluga">Монтаж канализации и водопровода</td>
+                    <td class="unit">тч.</td>
+                    <td class="unit-price">от 350</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="450">
+                    <th scope="row">2</th>
+                    <td class="usluga">Монтаж сантех. мебели - ванна</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 450</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="700">
+                    <th scope="row">3</th>
+                    <td class="usluga">Монтаж сантех. мебели - душевая кабина</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">700-1500</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="400">
+                    <th scope="row">4</th>
+                    <td class="usluga">Монтаж сантех. мебели (умывальник, унитаз, мойка)</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 400</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="300">
+                    <th scope="row">5</th>
+                    <td class="usluga">Монтаж сантех. мебели (полотенцесушитель, С/М)</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 300</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="200">
+                    <th scope="row">6</th>
+                    <td class="usluga">Установка смесителей</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 200</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="p10">
+        <h2>Прайс-лист на услуги электрика</h2>
+        <h3>Стоимость скрытой электропроводки в бетонных стенах</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="7">
+                    <th scope="row">1</th>
+                    <td class="usluga">Прокладка кабеля 3 х 2,5 мм.кв в готовой штробе с черновой заделкой</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">7.00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="25">
+                    <th scope="row">2</th>
+                    <td class="usluga">Штробление стен под электропроводку</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">25,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="70">
+                    <th scope="row">3</th>
+                    <td class="usluga">Бурение отверстия под розетку</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">70,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="70">
+                    <th scope="row">4</th>
+                    <td class="usluga">Бурение отверстия под выключатель</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">70,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="100">
+                    <th scope="row">5</th>
+                    <td class="usluga">Бурение отверстия под под распределительную коробку</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">100,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="5">
+                    <th scope="row">6</th>
+                    <td class="usluga">Сверление проходных отверстий диаметром до 15 мм в стенах</td>
+                    <td class="unit">п.см.</td>
+                    <td class="unit-price">5,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="10">
+                    <th scope="row">7</th>
+                    <td class="usluga">Монтаж установочной коробки для выключателей и розеток</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">10,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">8</th>
+                    <td class="usluga">Монтаж распределительной коробки</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">9</th>
+                    <td class="usluga">Монтаж фурнитуры (розетки или выключателя)</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">30,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+        <h3>Стоимость скрытой электропроводки в кирпичных, пенобетонных, гипсовых стенах</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="7">
+                    <th scope="row">1</th>
+                    <td class="usluga">Прокладка кабеля 3 х 2,5 мм.кв в готовой штробе с черновой заделкой</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">7.00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="15">
+                    <th scope="row">2</th>
+                    <td class="usluga">Штробление стен под электропроводку</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">15.00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">3</th>
+                    <td class="usluga">Бурение отверстия под розетку</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">40,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="40">
+                    <th scope="row">4</th>
+                    <td class="usluga">Бурение отверстия под выключатель</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">40,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="60">
+                    <th scope="row">5</th>
+                    <td class="usluga">Бурение отверстия под под распределительную коробку</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">60,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="3">
+                    <th scope="row">6</th>
+                    <td class="usluga">Сверление проходных отверстий диаметром до 15 мм в стенах</td>
+                    <td class="unit">п.см.</td>
+                    <td class="unit-price">3,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="10">
+                    <th scope="row">7</th>
+                    <td class="usluga">Монтаж установочной коробки для выключателей и розеток</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">10,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">8</th>
+                    <td class="usluga">Монтаж распределительной коробки</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">9</th>
+                    <td class="usluga">Монтаж фурнитуры (розетки или выключателя)</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">30,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">9</th>
+                    <td class="usluga">Электромонтаж (расключение) в распределительной коробке</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">80,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+        <h3>Стоимость открытой электропроводки</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="25">
+                    <th scope="row">1</th>
+                    <td class="usluga">Прокладка кабеля на скобах</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">от 25,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">2</th>
+                    <td class="usluga">Прокладка кабеля в гофре на скобах с затяжкой</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">от 50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="30">
+                    <th scope="row">3</th>
+                    <td class="usluga">Прокладка кабеля в пластиковом коробе (кабель-канале) с креплением</td>
+                    <td class="unit">п.м.</td>
+                    <td class="unit-price">от 30,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">4</th>
+                    <td class="usluga">Монтаж фурнитуры (розетки или выключателя)</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="100">
+                    <th scope="row">5</th>
+                    <td class="usluga">Монтаж распределительной коробки</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">100,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">6</th>
+                    <td class="usluga">Электромонтаж (расключение) в распределительной коробке</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">80,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+        <h3>Сборка и монтаж электрощитов</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="0">
+                    <th scope="row">1</th>
+                    <td class="usluga">Переборка старого электрощита до 8 групп</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">Договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">2</th>
+                    <td class="usluga">Переборка старого электрощита до 24 групп</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">Договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="300">
+                    <th scope="row">3</th>
+                    <td class="usluga">Сборка и установка нового электрощита без счетчика</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 300,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">4</th>
+                    <td class="usluga">Установка или замена автомата на аналогичный</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">5</th>
+                    <td class="usluga">Установка или замена УЗО на аналогичный</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">80,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+        <h3>Установка, сборка и подключение электрооборудования освещения</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="300">
+                    <th scope="row">1</th>
+                    <td class="usluga">Установка и подключение стабилизатора напряжения</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 300,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">2</th>
+                    <td class="usluga">Установка и подключение трансформатора на 12 V</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">3</th>
+                    <td class="usluga">Сборка бра, светильников</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="80">
+                    <th scope="row">4</th>
+                    <td class="usluga">Установка и подключение бра, настенных светильников</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 80,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="50">
+                    <th scope="row">5</th>
+                    <td class="usluga">Сборка люстр</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 50,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="100">
+                    <th scope="row">6</th>
+                    <td class="usluga">Навеска и подключение люстр и  потолочных светильников</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">от 100,00</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+        <h3>Сопутствующие работы</h3>
+        <table class="table ps__table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>№</th>
+                    <th>Вид работ</th>
+                    <th>Ед. изм.</th>
+                    <th>Цена, грн</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-price="0">
+                    <th scope="row">1</th>
+                    <td class="usluga">Сверление отверстий в стене и потолке диаметром до 15 мм</td>
+                    <td class="unit">п.см.</td>
+                    <td class="unit-price">Договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+                <tr data-price="0">
+                    <th scope="row">2</th>
+                    <td class="usluga">Вырезание ниши под электрощит</td>
+                    <td class="unit">шт.</td>
+                    <td class="unit-price">Договорная</td>
+                <td><button class="btn btn-link ps__btn-add"><i class="fa fa-plus-circle fa-lg"></i></button></td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
 						<div class="ps__sum-block">
 							<h3>Калькулятор ремонта</h3>
 							<table class="ps__sum-table table">
@@ -1395,17 +1476,19 @@
 										<th>№</th>
 										<th>Вид работ</th>
 										<th>Количество</th>
-										<th>Цена/ Ед.</th>
+										<th>Ед. изм.</th>
+										<th>Цена, грн</th>
 										<th>Сумма</th>
 										<th></th>
 									</tr>
 								</thead>
 								<tbody>
-									<tr class="ps__table-row" data-price="45">
+<!-- 									<tr class="ps__table-row" data-price="45">
 										<th scope="row">1</th>
 										<td>Стартовая шпаклевка стен</td>
 										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>от 45/ м. кв.</td>
+										<td>1 м. кв.</td>
+										<td>от 45</td>
 										<td class="sum"></td>
 										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
 									</tr>
@@ -1413,7 +1496,8 @@
 										<th scope="row">2</th>
 										<td>Стартовая шпаклевка потолков</td>
 										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>от 60/ м. кв.</td>
+										<td>1 м. кв.</td>
+										<td>от 60</td>
 										<td class="sum"></td>
 										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
 									</tr>
@@ -1421,35 +1505,27 @@
 										<th scope="row">3</th>
 										<td>Финишная шпаклевка стен</td>
 										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>от 40/ м. кв.</td>
+										<td>1 м. кв.</td>
+										<td>от 40</td>
 										<td class="sum"></td>
 										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
 									</tr>
-									<tr class="ps__table-row" data-price="50">
-										<th scope="row">4</th>
-										<td>Финишная шпаклевка потолков</td>
-										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>от 50/ м. кв</td>
-										<td class="sum"></td>
-										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
-									</tr>
-								</tbody>
+ -->								
+ 								</tbody>
 								<tfoot>
 								<tr>
 									<td></td>
 									<td>Общая сумма</td>
 									<td></td>
 									<td></td>
+									<td></td>
 									<td class="sum-main" colspan="2">0 грн</td>
 								</tr>
 								</tfoot>
 							</table>
-						</div>
-						</div> <!-- .table-responsive -->
+						</div> <!-- .ps__sum-block -->
 					</div>
-<!--====  End of PRICE LIST  ====-->
-
-
+					<!--====  End of PRICE LIST  ====-->
 				</div>
 				<!--content-->
 				<section class="footer" id="scroll-11">
