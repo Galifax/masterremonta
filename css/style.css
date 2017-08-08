@@ -400,21 +400,25 @@ body {
 }
 
 .ps__table>thead>tr>th:nth-child(2) {
-    width: 76%;
+    width: 71%;
 }
 
 .ps__table>thead>tr>th:nth-child(3) {
-    width: 15%;
+    width: 9%;
 }
 
 .ps__table>thead>tr>th:nth-child(4) {
+    width: 11%;
+}
+
+.ps__table>thead>tr>th:nth-child(5) {
     width: 5%;
 }
 
-/*.ps__sum-table>thead>tr>th:nth-child(5) {
-    width: 5%;
+.ps__table>tbody>tr>td:nth-child(5) {
+    text-align: center;
 }
-*/
+
 
 .ps__board {
     
