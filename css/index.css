@@ -1,11 +1,13 @@
 body {
     margin-top: 1rem;
 }
+
 .filtr-item {
     padding: 1rem;
 }
+
 .item-desc {
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     position: absolute;
     text-transform: uppercase;
@@ -18,22 +20,28 @@ body {
 }
 
 /* Filter controls */
-.simplefilter li, .multifilter li, .sortandshuffle li {
+.simplefilter li,
+.multifilter li,
+.sortandshuffle li {
     color: white;
     cursor: pointer;
     display: inline-block;
     text-transform: uppercase;
     padding: 1rem 2rem;
 }
+
 .simplefilter li {
     background-color: #585858;
 }
+
 .simplefilter li.active {
     background-color: #212121;
 }
+
 .multifilter li {
     background-color: #4b9eff;
 }
+
 .multifilter li.active {
     background-color: #2265b4;
 }
@@ -43,12 +51,15 @@ select {
     padding: 1rem 1rem;
     text-transform: uppercase;
 }
+
 .sortandshuffle .shuffle-btn {
     background-color: #dec800;
 }
+
 .sortandshuffle .sort-btn {
     background-color: #de0000;
 }
+
 .sortandshuffle .sort-btn.active {
     background-color: #9d0000;
 }
@@ -57,6 +68,7 @@ select {
 .search-row {
     margin-left: 2.5rem;
 }
+
 .filtr-search {
     padding: 0.5rem;
     text-transform: uppercase;
