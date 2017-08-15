@@ -389,6 +389,22 @@ body {
     color: rgba(0,0,0, .9);
 }
 
+.ps__btn-add--disabled {
+    color: rgba(0,0,0, .4);
+    cursor: not-allowed;
+}
+
+.ps__btn-add--disabled:hover,
+.ps__btn-add--disabled:focus:hover {
+    text-decoration: none;
+    color: rgba(0,0,0, .4);
+}
+
+.ps__btn-add--disabled:focus {
+    color: rgba(0,0,0, .4);
+}
+
+
 
 .ps__btn-close {
     outline: none;
