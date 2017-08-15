@@ -510,6 +510,62 @@
 						<a id="but91" class="btn btn-default btn-md">Сантехнические работы</a>
 						<a id="but101" class="btn btn-default btn-md">Прайс-лист на услуги электрика</a>
 					</div>
+						<div class="ps__sum-block">
+							<h3>Калькулятор ремонта</h3>
+							<table class="ps__sum-table table">
+								<thead class="thead-inverse">
+									<tr>
+										<th>№</th>
+										<th>Вид работ</th>
+										<th>Количество</th>
+										<th>Ед. изм.</th>
+										<th>Цена, грн</th>
+										<th>Сумма</th>
+										<th></th>
+									</tr>
+								</thead>
+								<tbody>
+<!-- 									<tr class="ps__table-row" data-price="45">
+										<th scope="row">1</th>
+										<td>Стартовая шпаклевка стен</td>
+										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
+										<td>1 м. кв.</td>
+										<td>от 45</td>
+										<td class="sum"></td>
+										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
+									</tr>
+									<tr class="ps__table-row" data-price="60">
+										<th scope="row">2</th>
+										<td>Стартовая шпаклевка потолков</td>
+										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
+										<td>1 м. кв.</td>
+										<td>от 60</td>
+										<td class="sum"></td>
+										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
+									</tr>
+									<tr class="ps__table-row" data-price="40">
+										<th scope="row">3</th>
+										<td>Финишная шпаклевка стен</td>
+										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
+										<td>1 м. кв.</td>
+										<td>от 40</td>
+										<td class="sum"></td>
+										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
+									</tr>
+ -->								
+ 								</tbody>
+								<tfoot>
+								<tr>
+									<td></td>
+									<td>Общая сумма</td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td class="sum-main" colspan="2">0 грн</td>
+								</tr>
+								</tfoot>
+							</table>
+						</div> <!-- .ps__sum-block -->
 <div class="table-responsive">
     <div id="p1">
         <h3>Расценки на штукатурные и малярные работы (беспесчанка)</h3>
@@ -1468,62 +1524,6 @@
     </div>
 </div>
 
-						<div class="ps__sum-block">
-							<h3>Калькулятор ремонта</h3>
-							<table class="ps__sum-table table">
-								<thead class="thead-inverse">
-									<tr>
-										<th>№</th>
-										<th>Вид работ</th>
-										<th>Количество</th>
-										<th>Ед. изм.</th>
-										<th>Цена, грн</th>
-										<th>Сумма</th>
-										<th></th>
-									</tr>
-								</thead>
-								<tbody>
-<!-- 									<tr class="ps__table-row" data-price="45">
-										<th scope="row">1</th>
-										<td>Стартовая шпаклевка стен</td>
-										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>1 м. кв.</td>
-										<td>от 45</td>
-										<td class="sum"></td>
-										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
-									</tr>
-									<tr class="ps__table-row" data-price="60">
-										<th scope="row">2</th>
-										<td>Стартовая шпаклевка потолков</td>
-										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>1 м. кв.</td>
-										<td>от 60</td>
-										<td class="sum"></td>
-										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
-									</tr>
-									<tr class="ps__table-row" data-price="40">
-										<th scope="row">3</th>
-										<td>Финишная шпаклевка стен</td>
-										<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>
-										<td>1 м. кв.</td>
-										<td>от 40</td>
-										<td class="sum"></td>
-										<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>
-									</tr>
- -->								
- 								</tbody>
-								<tfoot>
-								<tr>
-									<td></td>
-									<td>Общая сумма</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td class="sum-main" colspan="2">0 грн</td>
-								</tr>
-								</tfoot>
-							</table>
-						</div> <!-- .ps__sum-block -->
 					</div>
 					<!--====  End of PRICE LIST  ====-->
 				</div>
