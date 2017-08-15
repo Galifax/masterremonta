@@ -191,10 +191,17 @@
                 unit: $tablerow.find('.unit').text() || '',
                 unitPrice: $tablerow.find('.unit-price').text() || ''
             };
+
+            if ( $target.hasClass('ps__btn-add--disabled') ) {
+                return;
+            } else {
+                $target.addClass('ps__btn-add--disabled');
+            }
+
             $sumTalbe
                 .find('tbody')
                 .append(
-                    ['<tr class="ps__table-row" data-price="' + data.price + '">',
+                    $(['<tr class="ps__table-row" data-price="' + data.price + '">',
                         '<th scope="row"></th>',
                         '<td>' + data.usluga + '</td>',
                         '<td><input class="form-control" type="text" placeholder="0" maxlength="6"></td>',
@@ -202,7 +209,11 @@
                         '<td>' + data.unitPrice + '</td>',
                         '<td class="sum"></td>',
                         '<td class="js-close"><button type="button" class="ps__btn-close btn btn-default btn-sm">X</button></td>',
-                    '</tr>'].join('')
+                    '</tr>'].join('')).bind('click', function(e) {
+                        if ( $(e.target).hasClass('ps__btn-close') ) {
+                            $target.removeClass('ps__btn-add--disabled');
+                        }
+                    })
                 );
             var $tableRows = $('.ps__sum-table>tbody>tr');
 
